@@ -1,0 +1,7 @@
+{
+    "data_root": "./IEMOCAP/IEMOCAP_features_2021",
+    "target_root": "./IEMOCAP/IEMOCAP_features_2021/target",
+    "total_cv": 10,
+    "feature_root": "./IEMOCAP/IEMOCAP_features_2021"
+
+}
